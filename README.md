@@ -20,12 +20,12 @@ To Run:
     
     cd src
     python mthread.py
-    
-       or
-       
-   cd src
    
-   python samples/run.py 
+   Or to schedule every few secs.
+   
+    cd src
+   
+    python samples/run.py 
    
 
   
