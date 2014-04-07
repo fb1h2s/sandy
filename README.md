@@ -3,6 +3,7 @@ sandy
 
 Static and Dynamic exploit analysis framework. 
 
+http://www.garage4hackers.com/entry.php?b=2532
 
 This is the backend code powering [Sandy] at exploit-analysis.com. Hence there would be lot of hard coded path names and no centrilized config files.   It would take a bit of time for me to beautify this code.The Front end php data viewer is not included with code.
 
