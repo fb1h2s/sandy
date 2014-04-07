@@ -9,6 +9,7 @@ This is the backend code powering [Sandy] at exploit-analysis.com. Hence there w
 Requirements:
 
 Ubuntu/Linux Os
+And way too many things :( . I will update soon. 
 
 
 
